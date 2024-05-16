@@ -201,8 +201,6 @@ is_test = True
 
 if(is_test):
     base_url = ''
-else:
-    base_url = ''
 
 print('Sprint Completion Program')
 # move only un-closed or un-verified issue to next sprint
